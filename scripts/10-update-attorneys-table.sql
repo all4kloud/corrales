@@ -1,0 +1,6 @@
+-- Add missing fields to attorneys table
+ALTER TABLE attorneys 
+ADD COLUMN IF NOT EXISTS city VARCHAR(100),
+ADD COLUMN IF NOT EXISTS state VARCHAR(50),
+ADD COLUMN IF NOT EXISTS zip_code VARCHAR(20),
+ADD COLUMN IF NOT EXISTS website VARCHAR(255);

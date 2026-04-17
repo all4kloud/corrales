@@ -1,0 +1,228 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "delete": "Delete",
+    "edit": "Edit",
+    "save": "Save",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "actions": "Actions",
+    "noResults": "No results found",
+    "back": "Back",
+    "customerPortal": "Customer Portal",
+    "settings": "Settings"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "signOut": "Sign Out",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot your password?",
+    "invalidCredentials": "Invalid credentials"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome",
+    "welcomeBack": "Welcome back",
+    "subtitle": "Here's an overview of your real estate transactions",
+    "myTransactions": "My Transactions",
+    "yourTransactions": "Your Transactions",
+    "upcomingTasks": "Upcoming Tasks",
+    "recentDocuments": "Recent Documents",
+    "notifications": "Notifications",
+    "viewAll": "View All",
+    "totalTransactions": "Total Transactions"
+  },
+  "transactions": {
+    "title": "Transactions",
+    "property": "Property",
+    "status": "Status",
+    "statusActive": "Active",
+    "statusCompleted": "Completed",
+    "statusPending": "Pending",
+    "closingDate": "Closing Date",
+    "role": "Role",
+    "price": "Price",
+    "noTransactions": "No transactions",
+    "details": "Transaction Details",
+    "overview": "Overview",
+    "tasks": "Tasks",
+    "documents": "Documents",
+    "timeline": "Timeline"
+  },
+  "tasks": {
+    "title": "Tasks",
+    "name": "Name",
+    "pending": "Pending Tasks",
+    "dueDate": "Due Date",
+    "status": "Status",
+    "priority": "Priority",
+    "description": "Description",
+    "noTasks": "No pending tasks",
+    "markComplete": "Mark as Complete"
+  },
+  "status": {
+    "pending": "Pending",
+    "closed": "Closed",
+    "cancelled": "Cancelled",
+    "completed": "Completed",
+    "in_progress": "In Progress",
+    "overdue": "Overdue",
+    "not_applicable": "Not Applicable"
+  },
+  "roles": {
+    "buyer": "Buyer",
+    "seller": "Seller",
+    "listing_agent": "Listing Agent",
+    "buyer_agent": "Buyer Agent",
+    "co_listing_agent": "Co-Listing Agent",
+    "co_buyer_agent": "Co-Buyer Agent"
+  },
+  "settings": {
+    "title": "Account Settings",
+    "profileInformation": "Profile Information",
+    "name": "Name",
+    "email": "Email",
+    "notificationPreferences": "Notification Preferences",
+    "emailNotifications": "Email Notifications",
+    "emailNotificationsDesc": "Receive transaction updates and alerts via email",
+    "smsNotifications": "SMS Notifications",
+    "smsNotificationsDesc": "Receive transaction updates and alerts via SMS",
+    "changePassword": "Change Password",
+    "currentPassword": "Current Password",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm Password",
+    "updatePassword": "Update Password",
+    "passwordRequirements": "Password must be at least 8 characters long",
+    "passwordsDoNotMatch": "Passwords do not match",
+    "passwordUpdated": "Password updated successfully",
+    "incorrectPassword": "Current password is incorrect",
+    "notificationsSaved": "Notification preferences saved",
+    "errorSavingNotifications": "Error saving notification preferences",
+    "backToDashboard": "Back to Dashboard"
+  },
+  "footer": {
+    "allRightsReserved": "All rights reserved",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "dashboard": "Dashboard"
+  },
+  "portal": {
+    "navigation": {
+      "dashboard": "Dashboard",
+      "transactions": "Transactions",
+      "documents": "Documents",
+      "settings": "Settings",
+      "logout": "Logout"
+    },
+    "dashboard": {
+      "title": "Dashboard",
+      "welcome": "Welcome",
+      "myTransactions": "My Transactions",
+      "upcomingTasks": "Upcoming Tasks",
+      "recentDocuments": "Recent Documents",
+      "notifications": "Notifications",
+      "viewAll": "View All"
+    },
+    "transactions": {
+      "title": "Transactions",
+      "property": "Property",
+      "status": "Status",
+      "closingDate": "Closing Date",
+      "role": "Role",
+      "price": "Price",
+      "noTransactions": "No transactions",
+      "details": "Transaction Details",
+      "overview": "Overview",
+      "tasks": "Tasks",
+      "documents": "Documents",
+      "timeline": "Timeline"
+    },
+    "status": {
+      "pending": "Pending",
+      "closed": "Closed",
+      "cancelled": "Cancelled",
+      "completed": "Completed",
+      "in_progress": "In Progress",
+      "overdue": "Overdue"
+    },
+    "roles": {
+      "buyer": "Buyer",
+      "seller": "Seller",
+      "listing_agent": "Listing Agent",
+      "buyer_agent": "Buyer Agent",
+      "co_listing_agent": "Co-Listing Agent",
+      "co_buyer_agent": "Co-Buyer Agent"
+    },
+    "tasks": {
+      "title": "Tasks",
+      "name": "Name",
+      "dueDate": "Due Date",
+      "status": "Status",
+      "priority": "Priority",
+      "description": "Description",
+      "noTasks": "No pending tasks",
+      "markComplete": "Mark as Complete"
+    },
+    "priority": {
+      "high": "High",
+      "medium": "Medium",
+      "low": "Low"
+    },
+    "documents": {
+      "title": "Documents",
+      "fileName": "File Name",
+      "type": "Type",
+      "size": "Size",
+      "uploadedDate": "Uploaded Date",
+      "noDocuments": "No documents",
+      "download": "Download",
+      "view": "View"
+    },
+    "settings": {
+      "title": "Settings",
+      "language": "Language",
+      "languageDescription": "Select your preferred language for the portal interface",
+      "english": "English",
+      "spanish": "Spanish",
+      "notifications": "Notifications",
+      "emailNotifications": "Email Notifications",
+      "smsNotifications": "SMS Notifications",
+      "profile": "Profile",
+      "save": "Save Changes",
+      "saved": "Saved",
+      "saving": "Saving...",
+      "error": "Error saving"
+    },
+    "auth": {
+      "login": "Login",
+      "logout": "Logout",
+      "email": "Email",
+      "password": "Password",
+      "forgotPassword": "Forgot your password?",
+      "invalidCredentials": "Invalid credentials"
+    },
+    "common": {
+      "loading": "Loading...",
+      "error": "Error",
+      "success": "Success",
+      "cancel": "Cancel",
+      "confirm": "Confirm",
+      "delete": "Delete",
+      "edit": "Edit",
+      "save": "Save",
+      "search": "Search",
+      "filter": "Filter",
+      "sort": "Sort",
+      "actions": "Actions",
+      "noResults": "No results found",
+      "back": "Back"
+    }
+  }
+}

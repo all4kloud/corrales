@@ -1,0 +1,40 @@
+/* Real Estate Portal Theme */
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: "Playfair Display", "Georgia", serif;
+  --font-serif: "Playfair Display", "Georgia", serif;
+  --font-mono: "Geist Mono", "Geist Mono Fallback";
+
+  /* Updated to real estate color palette */
+  /* Primary Colors */
+  --color-primary: #10294b; /* Dark blue */
+  --color-primary-foreground: #f8f7f7; /* Light gray */
+  --color-accent: #e8a522; /* Orange */
+  --color-accent-foreground: #10294b; /* Dark blue */
+
+  /* Complement Colors */
+  --color-secondary: #0f192e; /* Darker blue */
+  --color-secondary-foreground: #f8f7f7; /* Light gray */
+  --color-muted: #f8f7f7; /* Light gray */
+  --color-muted-foreground: #10294b; /* Dark blue */
+
+  /* Background and Surface Colors */
+  --color-background: #f8f7f7; /* Light gray */
+  --color-foreground: #10294b; /* Dark blue */
+  --color-card: #ffffff;
+  --color-card-foreground: #10294b;
+  --color-popover: #ffffff;
+  --color-popover-foreground: #10294b;
+
+  /* Border and Input */
+  --color-border: #e0dfde;
+  --color-input: #e0dfde;
+  --color-ring: #e8a522; /* Orange */
+
+  /* Status Colors */
+  --color-destructive: #991b1b;
+  --color-destructive-foreground: #f8f7f7;
+
+  --radius: 0.5rem;
+}
